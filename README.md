@@ -2,7 +2,7 @@
 コロナウイルスなどの感染シミュレーションを行うプログラムです。
 - 言語: Python
 - JupyterNotebook(.ipnyb)で開発しています
-- ipycanvasというライブラリを使っています(結構入れにくいので注意)
+- ipycanvasというライブラリを使っています(結構インストールしにくいので注意)
 
 ## 元ネタ
 - こちらの記事「[コロナウイルスなどのアウトブレイクは、なぜ急速に拡大し、どのように「曲線を平らにする」ことができるのか](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-japanese/)」
