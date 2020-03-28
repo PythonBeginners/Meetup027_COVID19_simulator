@@ -35,3 +35,5 @@ ipycanvasのインストールを行います。Dockerでは上手く行かな�
 ipycanvasが結構曲者ですので、インストール頑張ってください！ <br>
 インストールが上手く行っても、最後のCOVID-19_simulatorではエラーが出たので、詳しくはNotebookのコメントを読みながら動かしてみてくださいmm <br>
 
+## 解決できない場合は
+2020/03/28(土)にオンラインで行われた[PythonBeginners沖縄 #27](https://python-beginners-okinawa.connpass.com/event/171709/) でハンズオンを行った際にトラブルシューティングもしています。上記でも解決できない場合は [公式slack](https://join.slack.com/t/python-beginners-oki/shared_invite/enQtNDc0NTc2NjcwODE4LTk2NWU2MDk4MGQ5ZGM0MDI0MDcwMTk0ZGMwMDg3MmU2Njc3NjQ1YWM1ODIwNTI4YzU0M2IwMmMyMzVhZGJhNGI) の #general もご参照ください。
