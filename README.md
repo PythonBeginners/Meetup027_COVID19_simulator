@@ -1,8 +1,9 @@
 # COVID19_simulator
 コロナウイルスなどの感染シミュレーションを行うプログラムです。
 - 言語: Python
-- JupyterNotebook(.ipnyb)で開発しています
+- JupyterLab(.ipnyb)で開発しています。JupyterNotebookだと見れない報告が多いです。
 - ipycanvasというライブラリを使っています(結構インストールしにくいので注意)
+- 私はMacで動作確認していますが、Windowsでの動作確認報告もありました。
 
 ## 元ネタ
 - こちらの記事「[コロナウイルスなどのアウトブレイクは、なぜ急速に拡大し、どのように「曲線を平らにする」ことができるのか](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-japanese/)」
@@ -11,7 +12,8 @@
 誰かNotebookで作ってくれないかなーと思って探したけど見つからなかったので作ってみました(・ω・)
 
 ## デモ
-- [こちらのツイート](https://twitter.com/yasubeitwi/status/1241337020770684928) でデモしています。
+- [こちらのツイート](https://twitter.com/yasubeitwi/status/1241337020770684928) でデモしています。動画です。
+- 自宅待機の割合を３段階で切り替えて、感染速度の変化具合をデモで見ることができます。
 
 ## ソース
 - 01_ipycanvas_basic_usage.ipynb <br>
